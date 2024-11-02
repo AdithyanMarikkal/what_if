@@ -1,19 +1,19 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [WHAT_IF] 🎯
+# WHAT_IF 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Twinkle stars
 
 
 ### Team Members
-- Team Lead: [ADITHYAN MARIKKAL] - [NSS COLLEGE OF ENGINEERING PALAKKAD]
-- Member 2: [ARUN V] - [NSS COLLEGE OF ENGINEERING PALAKKAD]
-- Member 3: [JOHN VARGHESE BENNY] - [NSS COLLEGE OF ENGINEERING PALAKKAD]
+- Team Lead: ADITHYAN MARIKKAL - NSS COLLEGE OF ENGINEERING PALAKKAD
+- Member 2: ARUN V - NSS COLLEGE OF ENGINEERING PALAKKAD
+- Member 3: JOHN VARGHESE BENNY - NSS COLLEGE OF ENGINEERING PALAKKAD
 
 ### Project Description
-[Project Title: What If? Exploring Fictional Realms
+Project Title: What If? Exploring Fictional Realms
 
 Description: Welcome to "What If? Exploring Fictional Realms," a captivating project that invites you to imagine the possibility of beloved fictional worlds coming to life. What if Middle-earth truly existed? How would the weather in Atlantis affect its legendary inhabitants?
 
@@ -92,16 +92,13 @@ panem's map
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+Demo video: https://drive.google.com/file/d/11guDUmqrIBLLoOKvOb0Lp5_vsJ4ngqso/view?usp=sharing
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [ADITHYAN MARIKKAL]: [HOME PAGE AND CSS]
-- [ARUN V]: [MAP IMPLEMENTATION AND IDEA]
-- [JOHN VARGHESE BENNY]: [JAVA SCRIPT IMPLENTION AND IDEA]
+- ADITHYAN MARIKKAL: HOME PAGE AND CSS
+- ARUN V: MAP IMPLEMENTATION AND IDEA
+- JOHN VARGHESE BENNY: JAVA SCRIPT IMPLENTION AND IDEA
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
