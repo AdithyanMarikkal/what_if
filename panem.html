@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PANEM MAP</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="medieval-map-page">
+        <h2>PANEM Weather Map</h2>
+        <button onclick="window.location.href='index.html'">Back to home</button>
+
+        <img src="Panem_map.jpg" alt="Medieval City Map" usemap="#medieval-map" id="medieval-map">
+
+        <map name="panem-map">
+            <area shape="rect" coords="69,155,192,83" alt="Oz" onclick="showWeather('Oz')">
+            <area shape="rect" coords="200,180,250,230" alt="Castle" onclick="showWeather('Castle')">
+            
+        </map>
+
+
+        <div id="weather-info"></div>
+    </div>
+
+    <script src="panem.js"></script>
+</body>
+</html>
