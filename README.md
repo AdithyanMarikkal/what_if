@@ -39,10 +39,9 @@ Join us in this delightfully absurd journey that gives these fictional worlds th
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- JAVASCRIPT
 
 For Hardware:
 -no
@@ -61,37 +60,35 @@ Project Proposal: Overview of the project concept and its goal to explore weathe
 Requirements Specification: Objectives including humorous weather forecasts, interactive maps, and engaging scenarios.
 Final Report: The website “What If? Exploring Fictional Realms” successfully launched, engaging users with whimsical weather forecasts for fictional worlds and exceeding visitor expectations while 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](screenshot/s1.png)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+The basic outline 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](screenshot/s2.png)
+middile earth's map 
+
+![Screenshot3](screenshot/s3.png)
+panem's map
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+[User Visits Website]
+        -
+        >
+[Homepage with Navigation]
+        -
+        >
+[Select Fictional Realm]
+        -
+        >
+[Interactive Map of Realm]
+        -
+        >
+[View Weather Forecasts]
+        -
+        >
+[Engage with Humorous Scenarios]
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final](screenshot/s1.png)
 
 ### Project Demo
 # Video
@@ -102,9 +99,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [ADITHYAN MARIKKAL]: [HOME PAGE AND CSS]
+- [ARUN V]: [MAP IMPLEMENTATION AND IDEA]
+- [JOHN VARGHESE BENNY]: [JAVA SCRIPT IMPLENTION AND IDEA]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
