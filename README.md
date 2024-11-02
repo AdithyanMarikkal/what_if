@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [WHAT_IF] 🎯
 
 
 ## Basic Details
@@ -8,12 +8,18 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [ADITHYAN MARIKKAL] - [NSS COLLEGE OF ENGINEERING PALAKKAD]
+- Member 2: [ARUN V] - [NSS COLLEGE OF ENGINEERING PALAKKAD]
+- Member 3: [JOHN VARGHESE BENNY] - [NSS COLLEGE OF ENGINEERING PALAKKAD]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Project Title: What If? Exploring Fictional Realms
+
+Description: Welcome to "What If? Exploring Fictional Realms," a captivating project that invites you to imagine the possibility of beloved fictional worlds coming to life. What if Middle-earth truly existed? How would the weather in Atlantis affect its legendary inhabitants?
+
+In this exploration, we delve into the environmental conditions, climates, and ecosystems of iconic places from literature and mythology. By examining the geography and atmospheric elements of these realms, we aim to paint a vivid picture of what life might be like if these worlds were real.
+
+Through interactive maps, detailed climate analyses, and imaginative scenarios, "What If?" challenges you to think creatively about the interplay between environment and narrative. Join us on this journey to visualize and celebrate the extraordinary possibilities of these fictional landscapes!]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
