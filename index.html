@@ -11,39 +11,14 @@
     <div class="container">
         <h1>Weather Prediction for Middle Earth & Atlantis</h1>
         <div class="location-selector">
-            <button onclick="showWeather('middleEarth')">Middle Earth</button>
-            <button onclick="showWeather('atlantis')">Atlantis</button>
+            <button onclick="window.location.href='medieval.html'">Middle Earth</button>
+            <button onclick="alert('Atlantis is coming soon!')">Atlantis</button>
         </div>
         <div id="weather-display" class="weather-display">
             <p>Select a location to view its magical weather forecast!</p>
         </div>
     </div>
 
-    <script>
-        function showWeather(location) {
-            const weatherDisplay = document.getElementById("weather-display");
-            let weatherData = '';
-
-            if (location === 'middleEarth') {
-                weatherData = `
-                    <h2>Middle Earth</h2>
-                    <p><strong>Weather:</strong> Mystical fog with a chance of dragon fire.</p>
-                    <p><strong>Temperature:</strong> 15°C - 25°C</p>
-                    <p><strong>Wind:</strong> Gentle breeze from the West</p>
-                    <p><strong>Forecast:</strong> Clear skies over the Shire, but thunderstorms near Mordor.</p>
-                `;
-            } else if (location === 'atlantis') {
-                weatherData = `
-                    <h2>Atlantis</h2>
-                    <p><strong>Weather:</strong> Underwater serenity with sparkling sunbeams.</p>
-                    <p><strong>Temperature:</strong> 22°C (ocean warm currents)</p>
-                    <p><strong>Wind:</strong> Submarine currents from the North</p>
-                    <p><strong>Forecast:</strong> Crystal clear waters; occasional whirlpools near the ruins.</p>
-                `;
-            }
-
-            weatherDisplay.innerHTML = weatherData;
-        }
-    </script>
+    
 </body>
 </html>

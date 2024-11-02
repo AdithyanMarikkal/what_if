@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medieval world map</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="medieval-map-page">
+        <h2>Medieval World Weather Map</h2>
+        <button onclick="window.location.href='index.html'">Back to home</button>
+
+        <img src="medieval_map.jpg" alt="Medieval City Map" usemap="#medieval-map" id="medieval-map">
+
+        <map name="medieval-map">
+            <area shape="rect" coords="69,155,192,83" alt="Oz" onclick="showWeather('Oz')">
+            <area shape="rect" coords="120,80,170,130" alt="Castle" onclick="showWeather('Castle')">
+        </map>
+
+
+        <div id="weather-info"></div>
+    </div>
+
+    <script src="medieval.js"></script>
+</body>
+</html>
